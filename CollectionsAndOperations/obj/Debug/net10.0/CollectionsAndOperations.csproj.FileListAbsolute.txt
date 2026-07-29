@@ -1,0 +1,14 @@
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/CollectionsAndOperations/bin/Debug/net10.0/CollectionsAndOperations
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/CollectionsAndOperations/bin/Debug/net10.0/CollectionsAndOperations.deps.json
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/CollectionsAndOperations/bin/Debug/net10.0/CollectionsAndOperations.runtimeconfig.json
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/CollectionsAndOperations/bin/Debug/net10.0/CollectionsAndOperations.dll
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/CollectionsAndOperations/bin/Debug/net10.0/CollectionsAndOperations.pdb
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/CollectionsAndOperations/obj/Debug/net10.0/CollectionsAndOperations.GeneratedMSBuildEditorConfig.editorconfig
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/CollectionsAndOperations/obj/Debug/net10.0/CollectionsAndOperations.AssemblyInfoInputs.cache
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/CollectionsAndOperations/obj/Debug/net10.0/CollectionsAndOperations.AssemblyInfo.cs
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/CollectionsAndOperations/obj/Debug/net10.0/CollectionsAndOperations.csproj.CoreCompileInputs.cache
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/CollectionsAndOperations/obj/Debug/net10.0/CollectionsAndOperations.dll
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/CollectionsAndOperations/obj/Debug/net10.0/refint/CollectionsAndOperations.dll
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/CollectionsAndOperations/obj/Debug/net10.0/CollectionsAndOperations.pdb
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/CollectionsAndOperations/obj/Debug/net10.0/CollectionsAndOperations.genruntimeconfig.cache
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/CollectionsAndOperations/obj/Debug/net10.0/ref/CollectionsAndOperations.dll

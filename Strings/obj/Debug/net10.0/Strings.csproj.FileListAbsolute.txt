@@ -1,0 +1,14 @@
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Strings/bin/Debug/net10.0/Strings
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Strings/bin/Debug/net10.0/Strings.deps.json
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Strings/bin/Debug/net10.0/Strings.runtimeconfig.json
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Strings/bin/Debug/net10.0/Strings.dll
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Strings/bin/Debug/net10.0/Strings.pdb
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Strings/obj/Debug/net10.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Strings/obj/Debug/net10.0/Strings.AssemblyInfoInputs.cache
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Strings/obj/Debug/net10.0/Strings.AssemblyInfo.cs
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Strings/obj/Debug/net10.0/Strings.csproj.CoreCompileInputs.cache
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Strings/obj/Debug/net10.0/Strings.dll
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Strings/obj/Debug/net10.0/refint/Strings.dll
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Strings/obj/Debug/net10.0/Strings.pdb
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Strings/obj/Debug/net10.0/Strings.genruntimeconfig.cache
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Strings/obj/Debug/net10.0/ref/Strings.dll
