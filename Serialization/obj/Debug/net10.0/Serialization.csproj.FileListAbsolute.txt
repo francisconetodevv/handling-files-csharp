@@ -1,0 +1,15 @@
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Serialization/bin/Debug/net10.0/Serialization
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Serialization/bin/Debug/net10.0/Serialization.deps.json
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Serialization/bin/Debug/net10.0/Serialization.runtimeconfig.json
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Serialization/bin/Debug/net10.0/Serialization.dll
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Serialization/bin/Debug/net10.0/Serialization.pdb
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Serialization/obj/Debug/net10.0/Serialization.GeneratedMSBuildEditorConfig.editorconfig
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Serialization/obj/Debug/net10.0/Serialization.AssemblyInfoInputs.cache
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Serialization/obj/Debug/net10.0/Serialization.AssemblyInfo.cs
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Serialization/obj/Debug/net10.0/Serialization.csproj.CoreCompileInputs.cache
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Serialization/obj/Debug/net10.0/Serialization.sourcelink.json
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Serialization/obj/Debug/net10.0/Serialization.dll
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Serialization/obj/Debug/net10.0/refint/Serialization.dll
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Serialization/obj/Debug/net10.0/Serialization.pdb
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Serialization/obj/Debug/net10.0/Serialization.genruntimeconfig.cache
+/home/francisco/Francisco/Dev/C-Sharp/24.HandlingFilesCSharp/Serialization/obj/Debug/net10.0/ref/Serialization.dll
